@@ -11,4 +11,4 @@ The purpose of this exercise is three-fold:
 
 ## Issues
 
-The model does not effectively reduce loss and so it does not “learn” efficiently. If I were to redo the model, I would put further effort into understanding how vamp up the equations, so the model learns correctly. 
+The model does not effectively reduce loss and so it does not “learn” efficiently. If I were to redo the model, I would put further effort into understanding how vamp up the equations so the model learns correctly. 
